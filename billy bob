@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>Billy Bob</title>
+	<H1>The story of billy</H1>
+</head>
+<!-- just for notes and stuff i don'y want on the website-->
+<body>
+	He's awesome. <br/>
+	too good for u because he watchs the TV
+
+	
+
+    <p style="color:blue"
+
+    	<strong>today we talk about billy the guy who eats stuff</strong>
+
+		
+		"go away"
+		is what he told his mom. He's running around breaking things destorying everything. All he says is get shrekt.
+
+
+		
+
+		
+         his mom got mad and locked him in his room.
+
+		Billy is very sad his mom doesn't care
+
+	</p>
+
+<ol> things for me to do 
+	<li> say hi to someone</li>
+	<li> finish my website</li>
+	<li> come back 3 years later to see how bad i was at building this website </li>
+	<li> eat </li>
+	<li> sleep</li>
+	<li> drink (water) </li>
+	<li> poop </li>
+
+	</ol>
+
+<ol>also other things for me to do
+
+    <li>wake up</li>
+	<li>go to school</li>
+	<li>not fool around</li>
+	<li>thats not happening by the way</li>
+	<li>make friends if possible</li>
+	<li>do homework</li>
+	<li>watch coding video</li>
+	<li>eat dinner</li>
+	<li>watch youtube or TV</li>
+	<li>get a snack</li>
+	<li>see what mom is doing</li>
+	<li>go to sleep</li>
+
+</ol>
+
+ <!-- `what do i write now i might clear all this stuff because this looks really bad but its a good start right? -->
+
+
+<!-- This is used for videos I have on my computer
+<video> 
+	<source src="" type="">
+
+</video>
+-->
+
+<!-- This is how to embed YT Videos-->
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/-dMP3JJZrPw" frameborder="0" allowfullscreen></iframe>	
+
+ <img src="shrekt.jpg"alt width="1200" height="800">
+
+
+
+
+</body>
+</html>
